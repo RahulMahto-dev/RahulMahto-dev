@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **student at GIET University**
  
- 🌱 I’m currently learning **Database,backend,API**
+ 🌱 I’m currently learning **Frontend,backend**
 
-💬 Ask me about **Node.js, React,html css,java,c or anything [here](https://github.com/salesp07/salesp07/issues)**
+/💬 Ask me about ** React,html css,java,c or anything [here](https://github.com/salesp07/salesp07/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
